@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello! 👋 Thanks for stopping by! My name is Kevin. I am a puppeteer turned elementary school teacher turned web developer. I love a challenge and thrive on creative, collaborative problem solving. I am a recent graduate of the full stack web development bootcamp at the University of Texas. I am currently seeking full time employment, freelance gigs, and other collaborative opportunities. Please get in touch. Let's make something great!
 
 <!--
 **KLong75/KLong75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
