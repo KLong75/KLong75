@@ -1,6 +1,6 @@
 ### Full Stack Web Developer. Bachelor of arts in theater. Has worked as a theater artist specializing in puppetry for over 20 years. At first glance coding may seem quite different from theater, however both are highly collaborative creative processes that require creative problem solving to reach a common goal by a deadline. Both require a focused group of people working together to build something. The tools and materials are just different. A career in the arts has often necessitated a day job. Extensive work experience in a variety of roles and industries including retail, food service, agriculture, manufacturing, and education. Have experienced technology in the workplace as both an asset and an obstacle. All of this real world experience informs thinking as a developer resulting in applications that are effective, intuitive, and easy to use. Adapts to new information and evolving circumstances. Excellent communication skills. Skilled at organizing and motivating groups of people to achieve a goal. Welcomes feedback. Always actively working to grow and improve. Thrives on creative problem solving and collaboration. Experienced at meeting deadlines under pressure. 
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Your_GitHub_Username&theme=blue-green)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=KLong75&theme=blue-green)
 
 <!--
 **KLong75/KLong75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
