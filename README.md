@@ -3,7 +3,7 @@
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=KLong75&theme=blue-green)
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=KLong75&show_icons=true)
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,express,github,materialui,mongodb,nodejs,react,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,mongodb,express,react,nodejs,materialui,github,vscode)](https://skillicons.dev)
 
 <!--
 **KLong75/KLong75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
