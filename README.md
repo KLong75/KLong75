@@ -3,8 +3,6 @@
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=KLong75&theme=blue-green)
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=KLong75&show_icons=true)
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,mongodb,express,react,nodejs,materialui,github,vscode)](https://skillicons.dev)
-
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,html,css,mongodb,express,react,nodejs,materialui,github,vscode" />
