@@ -13,6 +13,12 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://komarev.com">
+    <img src="https://komarev.com/ghpvc/?username=KLong75" />
+  </a>
+</p>
+
 <!--
 **KLong75/KLong75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
