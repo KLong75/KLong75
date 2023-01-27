@@ -3,7 +3,6 @@
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=KLong75&theme=blue-green)
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=KLong75&show_icons=true)
 
-
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=github,vscode,html,css,js,mongodb,express,react,nodejs,materialui" />
