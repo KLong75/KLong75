@@ -21,7 +21,11 @@
 </p> -->
 
 <p align="center">
-  ⚡I’m currently working on <a href='https://vainmainstream.com'>vainmainstream.com</a>⚡ 
+  ⚡I’m currently working on:⚡ 
+  <ul>
+    <li><a href='https://vainmainstream.com'>vainmainstream.com</a></li>
+    <li><a href='https://github.com/KLong75/sam-hahn-travel'> A new website for Sam Hahn Travel Company </a></li>
+  </ul>
 </p>
 
 <!--
