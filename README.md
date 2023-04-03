@@ -23,8 +23,10 @@
 <p align="center">
   ⚡I’m currently working on:⚡ 
   <ul >
-    <li><a href='https://vainmainstream.com'>vainmainstream.com</a></li>
-    <li><a href='https://klong75.github.io/sam-hahn-travel/'> A new website for Sam Hahn Travel Company </a></li>
+    <li>⚡<a href='https://vainmainstream.com'>vainmainstream.com</a>⚡</li>
+    <li>⚡<a href='https://klong75.github.io/sam-hahn-travel/'>A new website for Sam Hahn Travel Company</a>⚡</li>
+    <li>⚡<a href='https://github.com/KLong75/kevin-new-portfolio'>A new portfolio website for myself</a>⚡</li> 
+    
   </ul>
 </p>
 
