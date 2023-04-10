@@ -1,5 +1,25 @@
 <!-- ![Header](./github-header-image.png) -->
-### Full Stack Web Developer. Bachelor of arts in theater. Has worked as a theater artist specializing in puppetry for over 20 years. At first glance coding may seem quite different from theater, however both are highly collaborative creative processes that require creative problem solving to reach a common goal by a deadline. Both require a focused group of people working together to build something. The tools and materials are just different. A career in the arts has often necessitated a day job. Extensive work experience in a variety of roles and industries including retail, food service, agriculture, manufacturing, and education. Have experienced technology in the workplace as both an asset and an obstacle. All of this real world experience informs thinking as a developer resulting in applications that are effective, intuitive, and easy to use. Adapts to new information and evolving circumstances. Excellent communication skills. Skilled at organizing and motivating groups of people to achieve a goal. Welcomes feedback. Always actively working to grow and improve. Thrives on creative problem solving and collaboration. Experienced at meeting deadlines under pressure. 
+## Full Stack Web Developer. Based in Austin, Texas. Certificate in Full Stack Web Development from the University of Texas at Austin.
+
+#### With a background in the performing arts and education, I bring the passion and creativity of an artist alongside the patient persistence and skilled communication of a teacher.
+
+#### I thrive on creative problem-solving and collaboration. I love the challenge of attempting to answer the question, "What if...?"
+
+## Currently 
+
+#### Pursuing Freelance Work
+If you are in need of a website or app for your creative project, small business, or organization, I would love to talk!
+
+#### Seeking Fulltime Employment
+As a developer, I am looking for a company that values creativity, collaboration, and a passion for learning.
+
+#### Teaching (Assistant) - edX - Full Stack Web Development Bootcamp
+I love helping students learn and grow, and I am excited to continue to do so in this role.
+
+#### Seeking New Tech Connections
+I am always looking to meet new people in the tech community. If you are a developer, designer, or tech professional, I would love to connect!
+
+<br></br>
 
 <p align="center">
   <a href="https://github-readme-stats.vercel.app">
