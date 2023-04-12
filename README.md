@@ -1,7 +1,7 @@
 <!-- ![Header](./github-header-image.png) -->
 ## Full Stack Web Developer | Based in Austin, Texas 
 
-#### With a background in the performing arts and education, I bring the passion and creativity of an artist alongside the patient persistence and skilled communication of a teacher to my work as an engineer.
+#### With a background in the performing arts and education, I bring the passion and creativity of an artist, along with the patient persistence, and skilled communication of a teacher, to my work as a software engineer.
 
 #### I thrive on creative problem-solving and collaboration. I love the challenge of attempting to answer the question, "What if...?"
 
