@@ -13,7 +13,7 @@ If you are in need of a website or app for your creative project, small business
 #### Seeking Fulltime Employment
 As a developer, I am looking for a company that values creativity, collaboration, and a passion for learning.
 
-#### Teaching (Assistant) - edX - Full Stack Web Development Bootcamp
+#### Teaching (Assistant) - 2U - Full Stack Web Development Bootcamp
 I love helping students learn and grow, and I am excited to continue to do so in this role.
 
 #### Seeking New Tech Connections
