@@ -1,5 +1,5 @@
 <!-- ![Header](./github-header-image.png) -->
-## Full Stack Web Developer | Based in Austin, Texas 
+## Full Stack Web Developer | React | Node | Express | JavaScript
 
 #### With a background in the performing arts and education, I bring the passion and creativity of an artist, along with the patient persistence, and skilled communication of a teacher, to my work as a software developer.
 
