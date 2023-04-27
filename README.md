@@ -47,7 +47,7 @@ I am always looking to meet new people in the tech community. If you are a devel
   <ul >
     <li>⚡<a href='https://vainmainstream.com'>vainmainstream.com</a>⚡</li>
     <li>⚡<a href='https://klong75.github.io/sam-hahn-travel/'>A new website for Sam Hahn Travel Company</a>⚡</li>
-    <li>⚡<a href='https://kevinlong.dev'>A new portfolio website for myself</a>⚡</li> 
+    <li>⚡<a href='https://kevinlong.dev'>www.kevinlong.dev</a>⚡</li> 
     
   </ul>
 </p>
