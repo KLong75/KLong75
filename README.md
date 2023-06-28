@@ -1,5 +1,5 @@
 <!-- ![Header](./github-header-image.png) -->
-## Full Stack Web Developer | React | Node | Express | JavaScript
+## Full Stack Developer | React | Node | Express | JavaScript
 
 ## <a href='https://kevinlong.dev/' target='_blank'>www.kevinlong.dev</a>
 
