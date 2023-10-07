@@ -7,7 +7,7 @@ With a background in the performing arts and education, I bring the passion and 
 
 I thrive on creative problem-solving and collaboration. I love the challenge of attempting to answer the question, "What if...?"
 
-## Currently 
+### Currently 
 
 #### Pursuing Freelance Work
 If you are in need of a website or app for your creative project, small business, or organization, I would love to talk!
