@@ -19,7 +19,7 @@ As a developer, I am looking for a company that values creativity, collaboration
 I love helping students learn and grow, and I am excited to continue to do so in this role.
 
 #### Seeking New Tech Connections
-I am always looking to meet new people in the tech community. If you are a developer, designer, or tech professional, I would love to connect!
+I am always looking to meet new people in the tech community. I would love to connect if you are a developer, designer, or tech professional!
 
 <br></br>
 
@@ -49,7 +49,7 @@ I am always looking to meet new people in the tech community. If you are a devel
     <li>⚡<a href='https://klong75.github.io/sam-hahn-travel/'>A new website for Sam Hahn Travel Company</a>⚡</li>
     <li>⚡<a href='https://kevinlong.dev'>www.kevinlong.dev</a>⚡</li>
     <li>⚡<a href='https://mikemartinmedia.com'>www.mikemartinmedia.com</a>⚡</li> 
-    <li>⚡ A full stack application that allows a user to search tv shows and movies across all major streaming services.⚡</li> 
+    <li>⚡ A full stack application that allows a user to search TV shows and movies across all major streaming services.⚡</li> 
     
   </ul>
 </p>
