@@ -36,11 +36,11 @@ I am always looking to meet new people in the tech community. I would love to co
   </a>
 </p>
 
-<!-- <p align="center">
+ <p align="center">
   <a href="https://komarev.com">
     <img src="https://komarev.com/ghpvc/?username=KLong75" />
   </a>
-</p> -->
+</p> 
 
 <p align="center">
   ⚡I’m currently working on:⚡ 
