@@ -26,7 +26,7 @@ I am always looking to meet new people in the tech community. I would love to co
 <p align="center">
   <a href="https://github-readme-stats.vercel.app">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KLong75&theme=transparent" />
-<!--     <img src="https://github-readme-stats.vercel.app/api?username=KLong75&show_icons=true&theme=transparent" /> -->
+    <img src="https://github-readme-stats.vercel.app/api?username=KLong75&show_icons=true&theme=transparent" /> 
   </a>
 </p>
 
@@ -36,11 +36,11 @@ I am always looking to meet new people in the tech community. I would love to co
   </a>
 </p>
 
- <p align="center">
+<!-- <p align="center">
   <a href="https://komarev.com">
     <img src="https://komarev.com/ghpvc/?username=KLong75" />
   </a>
-</p> 
+</p> -->
 
 <p align="center">
   ⚡I’m currently working on:⚡ 
