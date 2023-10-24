@@ -14,7 +14,7 @@ Always open to conversation and collaboration.
 <!--<p align="center">
   <a href="https://github-readme-stats.vercel.app">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KLong75&theme=transparent" />
-  <!--  <img src="https://github-readme-stats.vercel.app/api?username=KLong75&show_icons=true&theme=transparent" /> -->
+    <img src="https://github-readme-stats.vercel.app/api?username=KLong75&show_icons=true&theme=transparent" /> 
   </a>
 </p> -->
 
