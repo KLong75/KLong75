@@ -11,18 +11,18 @@ Always open to conversation and collaboration.
 
 <br></br>
 
-<p align="center">
+<!--<p align="center">
   <a href="https://github-readme-stats.vercel.app">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KLong75&theme=transparent" />
   <!--  <img src="https://github-readme-stats.vercel.app/api?username=KLong75&show_icons=true&theme=transparent" /> -->
   </a>
-</p>
+</p> -->
 
-<!-- <p align="center">
+ <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=github,vscode,html,css,js,mongodb,express,react,nodejs,materialui" />
   </a>
-</p> -->
+</p> 
 
 <!-- <p align="center">
   <a href="https://komarev.com">
