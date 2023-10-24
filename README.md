@@ -1,5 +1,5 @@
 <!-- ![Header](./github-header-image.png) -->
-## Full Stack Developer | React | Node | Express | JavaScript
+## Full Stack Developer | React | Node | Express | JavaScript | HTML | CSS | MONGODB | SQL
 
 <a href='https://kevinlong.dev/' target='_blank'>www.kevinlong.dev</a>
 
@@ -7,19 +7,7 @@ With a background in the performing arts and education, I bring the passion and 
 
 I thrive on creative problem-solving and collaboration. I love the challenge of attempting to answer the question, "What if...?"
 
-### Currently 
-
-#### Pursuing Freelance Work
-If you are in need of a website or app for your creative project, small business, or organization, I would love to talk!
-
-#### Seeking Fulltime Employment
-As a developer, I am looking for a company that values creativity, collaboration, and a passion for learning.
-
-#### Teaching (Assistant) - 2U - Full Stack Web Development Bootcamp
-I love helping students learn and grow, and I am excited to continue to do so in this role.
-
-#### Seeking New Tech Connections
-I am always looking to meet new people in the tech community. I would love to connect if you are a developer, designer, or tech professional!
+Always open to conversation and collaboration.
 
 <br></br>
 
@@ -45,12 +33,7 @@ I am always looking to meet new people in the tech community. I would love to co
 <p align="center">
   ⚡I’m currently working on:⚡ 
   <ul >
-    <li>⚡<a href='https://vainmainstream.com'>vainmainstream.com</a>⚡</li>
-    <li>⚡<a href='https://klong75.github.io/sam-hahn-travel/'>A new website for Sam Hahn Travel Company</a>⚡</li>
-    <li>⚡<a href='https://kevinlong.dev'>www.kevinlong.dev</a>⚡</li>
-    <li>⚡<a href='https://mikemartinmedia.com'>www.mikemartinmedia.com</a>⚡</li> 
-    <li>⚡ A full stack application that allows a user to search TV shows and movies across all major streaming services.⚡</li> 
-    
+    <li>⚡<a href='https://github.com/KLong75/stream-hub'>WatchTV - REACT | NODE | EXPRESS | MONGODB | JAVASCRIPT</a>⚡</li> 
   </ul>
 </p>
 
