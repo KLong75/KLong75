@@ -9,8 +9,6 @@ I thrive on creative problem-solving and collaboration. I love the challenge of 
 
 Always open to conversation and collaboration.
 
-<br></br>
-
 <!--<p align="center">
   <a href="https://github-readme-stats.vercel.app">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KLong75&theme=transparent" />
