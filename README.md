@@ -1,5 +1,5 @@
 <!-- ![Header](./github-header-image.png) -->
-## Full Stack Developer | React | Node | Express | JavaScript | HTML | CSS | MONGODB | SQL
+## Full Stack Developer | REACT | NODE | EXPRESS | JAVASCRIPT | HTML | CSS | MONGODB | SQL
 
 <a href='https://kevinlong.dev/' target='_blank'>www.kevinlong.dev</a>
 
