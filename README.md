@@ -19,7 +19,7 @@ Always open to conversation and collaboration.
 
  <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,vscode,html,css,js,mongodb,express,react,nodejs,materialui" />
+    <img src="https://skillicons.dev/icons?i=github,vscode,html,css,js,typescript,mongodb,express,react,nextjs,nodejs,tailwind,materialui," />
   </a>
 </p> 
 
