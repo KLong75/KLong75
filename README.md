@@ -1,6 +1,6 @@
 <!-- ![Header](./github-header-image.png) -->
 ## Full Stack Developer 
-### REACT | NODE | EXPRESS | JAVASCRIPT | HTML | CSS | MONGODB | SQL
+### REACT | NEXTJS | NODE | EXPRESS | JAVASCRIPT | HTML | CSS | MONGODB | SQL
 
 <a href='https://kevinlong.dev/' target='_blank'>www.kevinlong.dev</a>
 
