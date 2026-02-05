@@ -27,14 +27,14 @@ Always open to conversation and collaboration.
   </a>
 </p> -->
 
-<p align="center">
+<!-- <p align="center">
   ⚡I’m currently working on:⚡ 
   <ul >
     <li>⚡<a href='https://www.rhythmcodestudio.tech/'>https://www.rhythmcodestudio.tech/</a>⚡</li>
     <li>⚡<a href='https://www.mikemartinmedia.com/'>https://www.mikemartinmedia.com/</a>⚡</li>
     <li>⚡<a href='https://www.thelongemergency.net/'>https://www.thelongemergency.net/</a>⚡</li>
   </ul>
-</p>
+</p> -->
 
 <!--
 **KLong75/KLong75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
