@@ -20,10 +20,17 @@ Always open to conversation and collaboration.
  <img src="https://skillicons.dev/icons?i=typescript,js,react,nextjs,nodejs,css,express,git,github,githubactions,html,materialui,md,mongodb,mysql,npm,rollupjs,tailwind,vercel,vscode" />
   <!-- </a> -->
 </p> 
-
-<a href='https://www.rhythmcodestudio.tech/'>https://www.rhythmcodestudio.tech/</a>
-<br>
-<a href='https://www.kevinlong.dev/'>https://www.kevinlong.dev/</a>
+<p>
+  <a href='https://www.rhythmcodestudio.tech/'>https://www.rhythmcodestudio.tech/</a>
+</p>
+<p>
+  <a href='https://www.kevinlong.dev/'>https://www.kevinlong.dev/</a>
+</p>
+<p>
+  <a href='https://www.linkedin.com/in/kevinlongdev/'>
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
 
 <!-- <p align="center">
   <a href="https://komarev.com">
