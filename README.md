@@ -16,10 +16,14 @@ Always open to conversation and collaboration.
 </p> -->
 
  <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,md,html,css,js,typescript,mongodb,mysql,express,react,nextjs,vercel,nodejs,tailwind,materialui,npm,rollupjs" />
-  </a>
+  <!-- <a href="https://skillicons.dev"> -->
+ <img src="https://skillicons.dev/icons?i=typescript,js,react,nextjs,nodejs,css,express,git,github,html,materialui,md,mongodb,mysql,npm,rollupjs,tailwind,vercel,vscode" />
+  <!-- </a> -->
 </p> 
+
+<a href='https://www.rhythmcodestudio.tech/'>https://www.rhythmcodestudio.tech/</a>
+<br>
+<a href='https://www.kevinlong.dev/'>https://www.kevinlong.dev/</a>
 
 <!-- <p align="center">
   <a href="https://komarev.com">
