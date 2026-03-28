@@ -15,7 +15,7 @@ Always open to conversation and collaboration.
   </a>
 </p> -->
 
-[![Icoziv-icons](https://i.icoziv.workers.dev/icons?i=apollo,css,expressjs-dark,figma-dark,git-dark,gitbash-dark,github-dark,githubactions-dark,githubcopilot-dark,githubpages-dark,gitkraken,gitlab-dark,googleanalytics-dark,graphql-dark,headlessui-dark,heroku,html,insomnia,javascript,jquery,json-dark,markdown-dark,mongodb,mongoose-dark,mysql-dark,neon-dark,nextauthjs-dark,nextjs-dark,nodejs-dark,npm-dark,postgresql-dark,pwa-dark,python-dark,reactjs-dark,reactrouter,rollupjs-dark,sequelize-dark,swiper,tailwindcss-dark,typescript,vercel-dark,visualstudiocode-dark,wordpress)](https://i.icoziv.workers.dev)
+[![Icoziv-icons](https://i.icoziv.workers.dev/icons?i=css,expressjs-dark,figma-dark,git-dark,gitbash-dark,github-dark,githubactions-dark,githubcopilot-dark,headlessui-dark,html,javascript,json-dark,markdown-dark,neon-dark,nextauthjs-dark,nextjs-dark,nodejs-dark,npm-dark,postgresql-dark,pwa-dark,reactjs-dark,reactrouter,rollupjs-dark,swiper,tailwindcss-dark,typescript,vercel-dark,visualstudiocode-dark)](https://i.icoziv.workers.dev)
   <!-- </a> -->
 <p>
   <a href='https://www.rhythmcodestudio.tech/'>https://www.rhythmcodestudio.tech/</a>
